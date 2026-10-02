@@ -46,3 +46,8 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+# Secretos y entorno
+.env
+.env.*
+*.keystore
+*.jks
